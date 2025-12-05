@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Working on AI, Machine Learning, and full-stack software projects.<br>🌱 Exploring new tech across AI, FastAPI, MERN, Docker, and microservices.<br>🔧 Love building AI-powered applications, ML microservices, and end-to-end full-stack products.<br>💡 Always experimenting with tools that push my engineering skills forward.<br>⚡ Fun fact. I enjoy creating projects that solve real-life problems.
+#  About Me:
+ Working on AI, Machine Learning, and full-stack software projects.<br> Exploring new tech across AI, FastAPI, MERN, Docker, and microservices.<br> Love building AI-powered applications, ML microservices, and end-to-end full-stack products.<br> Always experimenting with tools that push my engineering skills forward.<br>Fun fact. I enjoy creating projects that solve real-life problems.
 
 
 ## 🌐 Socials:
